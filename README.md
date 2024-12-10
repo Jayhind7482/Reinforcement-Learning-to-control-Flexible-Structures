@@ -21,7 +21,7 @@ In this project, a flexible structure, such as a robotic arm or similar mechanis
 ### **Installation**:
 - Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/flexible-structure-rl.git
+    git clone https://github.com/yourusername/elastica-rl.git
     cd flexible-structure-rl
     ```
 
@@ -35,4 +35,4 @@ In this project, a flexible structure, such as a robotic arm or similar mechanis
 ## **Usage**:
 Run the following script to run the simulation environment, train the RL agent, and test the agent:
 ```bash
-Elastica_length6_energy_curvature_New.ipynb
+elastica_rl.ipynb
