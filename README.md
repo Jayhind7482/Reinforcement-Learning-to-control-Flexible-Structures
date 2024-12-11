@@ -21,7 +21,7 @@ In this project, a flexible structure, such as a robotic arm or similar mechanis
 ### **Installation**:
 - Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/elastica-rl.git
+    git clone https://github.com/jayhind7482/Reinforcement-Learning-to-control-flexible-structures.git
     cd flexible-structure-rl
     ```
 
@@ -30,7 +30,7 @@ In this project, a flexible structure, such as a robotic arm or similar mechanis
     pip install -r requirements.txt
     ```
 
-### **Use the trained model provided in the repository to see the results**
+### **Use the trained model zip file (ElasticaGPU1_SAC) provided in the repository to see the results**
 
 ## **Usage**:
 Run the following script to run the simulation environment, train the RL agent, and test the agent:
